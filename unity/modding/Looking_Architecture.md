@@ -5,7 +5,7 @@ Open Dnspy, then click **File->Open**, and then find the game. We need to find t
 ## Finding the Game Code
 In dnspy find **Assembly-CSharp.dll** open that, and the other one. Then open **{}**, there is the Game class if you open that you see the game code.
 This is a very simple game. See if you can understand the code, and how it works.
-- `GetNewFlag()` Set the field `flag` to a random flag in the `GameObject[] flagObjects`. When `OnClick()` is trigged by clicking on a flag, it checks if it's the right flag. And gives 1 in `score`.
+- `GetNewFlag()` Sets the field `flag` to a random flag in the `GameObject[] flagObjects`. When `OnClick()` is trigged by clicking on a flag, it checks if it's the right flag. And gives 1 in `score`.
 
 - If you want to do this on your own game, you can try.
 
