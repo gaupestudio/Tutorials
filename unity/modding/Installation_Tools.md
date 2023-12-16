@@ -1,5 +1,5 @@
 # Installation & Tools
-[Go back](https://github.com/bamsestudio/Tutorials/)
+[Go back](https://github.com/bamsestudio/Tutorials/blob/main/unity/modding/UnityModding.md)
 - Create a folder somewhere.
 ## Install Dnspy
 - [Download here](https://github.com/dnSpy/dnSpy/releases/)
