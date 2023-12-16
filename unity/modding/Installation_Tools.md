@@ -12,4 +12,4 @@
 - Play the game if you want
 
 **Congratulations you finished Installation & Tools**
-[Next]()
+[Next](https://github.com/bamsestudio/Tutorials/blob/main/unity/modding/Looking_Architecture.md)
