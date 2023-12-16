@@ -1,4 +1,5 @@
 # Installation & Tools
+[Go back](https://github.com/bamsestudio/Tutorials/)
 - Create a folder somewhere.
 ## Install Dnspy
 - [Download here](https://github.com/dnSpy/dnSpy/releases/)
@@ -11,3 +12,4 @@
 - Play the game if you want
 
 **Congratulations you finished Installation & Tools**
+[Next]()
