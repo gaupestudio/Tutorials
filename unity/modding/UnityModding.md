@@ -15,7 +15,7 @@
 - Have Windows.
 
 ## Steps
-- [Installation & Tools]()
+- [Installation & Tools](https://github.com/bamsestudio/Tutorials/blob/main/unity/modding/Installation_Tools.md)
 - [Looking at the architecture]()
 - [Making Hello World]()
 - [Adding Chazzvader's Helpers]()
