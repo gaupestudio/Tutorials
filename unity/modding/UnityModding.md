@@ -6,7 +6,7 @@
 - Use Dnspy for modifying dll files.
 - Use Bundles, and load them using Chazzvader's Helpers.
 - Use Config files, and load them using Chazzvader's Helpers.
-- Understand how mod games.
+- Understand how to mod games.
 - Load Custom Dll Files.
 
 ## What should i have before i start the tutorial?
