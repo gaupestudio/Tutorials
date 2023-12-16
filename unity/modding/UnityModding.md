@@ -17,7 +17,7 @@
 ## Steps
 - [Installation & Tools](https://github.com/bamsestudio/Tutorials/blob/main/unity/modding/Installation_Tools.md)
 - [Looking at the architecture](https://github.com/bamsestudio/Tutorials/blob/main/unity/modding/Looking_Architecture.md)
-- [Making Hello World]()
+- [Making Hello World](https://github.com/bamsestudio/Tutorials/blob/main/unity/modding/Hello_World.md)
 - [Adding Chazzvader's Helpers]()
 - [Add Config Files]()
 - [Add a timer]()
