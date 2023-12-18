@@ -2,11 +2,18 @@
 [Go back](UnityModding.md)
 
 # Syntax
-Syntax `<type> <name> <value>`
+Syntax 
+
+`<type> <name> <value>`
+
 `GetString(filePath, valueName);` `str` `str test Hello, world!`
+
 `GetInt(filePath, valueName);` `int` `int test 0`
+
 `GetFloat(filePath, valueName);` `float` `float test 0.0`
+
 `GetVec3(filePath, valueName);` `vec3` `vec3 10 10 10`
+
 `Comment #` hashtag must be first in a new line. A variable cannot have a comment inline.
 
 # Coding
