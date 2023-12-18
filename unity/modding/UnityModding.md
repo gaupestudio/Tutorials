@@ -20,7 +20,7 @@
 - [Making Hello World](Hello_World.md)
 - [Adding Chazzvader's Helpers](Chazzvader_Helpers.md)
 - [Add Config Files](Config_Files.md)
-- [Add a timer]()
+- [Add a timer](Timer.md)
 - [Adding a new Flag]()
 - [Adding a Hello World DLL file]()
 - [Adding the timer into a DLL file]()

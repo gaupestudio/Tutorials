@@ -23,4 +23,4 @@ Now make a folder in the game folder **Not in managed** and call it **ModData**.
 Run the game, and look in the **Player.log** and you should see **1**
 
 **Congratulations you finished Config Files**
-[Next](Config_Files.md)
+[Next](Timer.md)
