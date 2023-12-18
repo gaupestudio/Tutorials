@@ -10,4 +10,4 @@ Right Click add press **Add Class**, [and paste this in](https://github.com/bams
 Save when you are finished!
 
 **Congratulations you finished Chazzvader's Helpers**
-[Next](https://github.com/bamsestudio/Tutorials/blob/main/unity/modding/Chazzvader_Helpers.md)
+[Next](Config_Files.md)

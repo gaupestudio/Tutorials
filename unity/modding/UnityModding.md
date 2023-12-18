@@ -19,7 +19,7 @@
 - [Looking at the architecture](https://github.com/bamsestudio/Tutorials/blob/main/unity/modding/Looking_Architecture.md)
 - [Making Hello World](https://github.com/bamsestudio/Tutorials/blob/main/unity/modding/Hello_World.md)
 - [Adding Chazzvader's Helpers](https://github.com/bamsestudio/Tutorials/blob/main/unity/modding/Chazzvader_Helpers.md)
-- [Add Config Files]()
+- [Add Config Files](Config_Files.md)
 - [Add a timer]()
 - [Adding a new Flag]()
 - [Adding a Hello World DLL file]()
