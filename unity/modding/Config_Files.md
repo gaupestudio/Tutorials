@@ -2,8 +2,6 @@
 [Go back](UnityModding.md)
 
 # Syntax
-Syntax 
-
 `<type> <name> <value>`
 
 `GetString(filePath, valueName);` `str` `str test Hello, world!`
