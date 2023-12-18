@@ -1,5 +1,5 @@
 # Add Config Files
-[Go back](https://github.com/bamsestudio/Tutorials/blob/main/unity/modding/UnityModding.md)
+[Go back](UnityModding.md)
 
 # Syntax
 Syntax `<type> <name> <value>`
