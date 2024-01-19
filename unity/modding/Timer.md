@@ -8,7 +8,7 @@ We need to add a timer, using config files and changing the source code. Now let
 Copy the [Source Code](data/timer_src.cs) and this is what it does!
 
 # What do we need to do
-It looks like you added a time limit functionality to your game in the "After" version of the code. Here are the key changes:
+Here are the key changes:
 
 1. **New Variables:**
    - Added two new variables, `private int time;` to store the remaining time, and `private float deltaTime;` to keep track of the time elapsed since the last update.
