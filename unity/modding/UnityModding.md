@@ -9,10 +9,9 @@
 - Understand how to mod games.
 - Load Custom Dll Files.
 
-## What should i have before i start the tutorial?
-- Basic knowledge for c#.
-- Know how to use a computer.
-- Have Windows.
+## What should i know before i start the tutorial?
+- Basic knowledge for unity.
+- Manage a well organized structure.
 
 ## Steps
 - [Installation & Tools](Installation_Tools.md)
