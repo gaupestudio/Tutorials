@@ -6,4 +6,4 @@ Extract the zip file, and place the "Gaupe" folder in the unity assets!
 If there is any errors, you might not have installed Netcode correctly.
 
 **Congratulations you finished Install Gaupe.Netcode**
-[Next](installation.md)
+[Next](networkmanager.md)
