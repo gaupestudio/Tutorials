@@ -28,7 +28,7 @@
 - [Installation of Netcode for gameobjects](installation.md)
 - [Install Gaupe.Netcode](gaupe.netcode.md)
 - [Creating a Network Manager](networkmanager.md)
-- [*QUICK* Creating test buttons](testbutton.md)
+- [*QUICK* Creating test buttons](networkmanager.md#adding-the-testing-buttons)
 - [Adding a player, and make it a client](playerclient.md)
 - [Sync Transform between clients](transform.md)
 - [Sync Animator between clients](animator.md)
